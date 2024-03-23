@@ -1,3 +1,3 @@
 Attention ceci n'est pas un gadget. Ce n'est pas non plus l'équivalent d'un fichier Excel, permettant de calculer la résistance à placer en série avec une LED pour fixer dans celle-ci un courant souhaité. En fait ce petit dispositif permet de calculer la résistance à placer en série avec la LED non pas pour un courant donné mais pour une "brillance" souhaitée (pour plusieurs niveaux de tension également) autre avantage : en cas de LEDs de différentes couleurs, il est facile de fait, à leur donner des "brillances" identiques. L'interface est en fait le moniteur série de votre IDE Arduino. Cet outil est indispensable dans votre petit labo de maker électronicien.https://youtu.be/AS8kzdWavEM
-![image](https://github.com/claudiusmarius/https-github.com-claudiusmarius-LED-CALCULATOR---NEW-CONCEPT-DFTA48/assets/67067355/1e6c331f-a27c-4c14-ab0b-4fc9dc4230a3)
+
 
